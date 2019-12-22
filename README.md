@@ -44,7 +44,6 @@ Untuk membuat package pada Python cukup mudah.
 
 # Membuat Package
 - Untuk menggunakan package yang telah dibuat cukup menggunakan perintah import
-
 contoh:
     
     import nama_package.nama_module
