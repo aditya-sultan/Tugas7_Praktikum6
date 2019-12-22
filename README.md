@@ -1,4 +1,9 @@
 # Module & Package
+
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
+
+di Praktikum 6 ini saya akan mempraktikan Module & Package
+
 # Pengertian Module
 - Modul merupakan bagian dari program yang berisi fungsi-fungsi yang dibuat pada file terpisah.
 - Dengan adanya modul-modul yang terpisah, dapat dikelompokkan sesuai dengan fungsinya dan memudahkan dalam mengelola kode program.
