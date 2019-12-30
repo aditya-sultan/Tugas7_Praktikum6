@@ -68,9 +68,11 @@ contoh:
 
 # input_nilai
 - ![](https://github.com/aditya-sultan/Tugas7_Praktikum6/blob/master/Capture3.PNG)
+- ![](https://github.com/aditya-sultan/Tugas7_Praktikum6/blob/master/Capture10.PNG)
 
 # view_nilai
 - ![](https://github.com/aditya-sultan/Tugas7_Praktikum6/blob/master/Capture4.PNG)
+- ![](https://github.com/aditya-sultan/Tugas7_Praktikum6/blob/master/Capture9.PNG)
 
 # main
 - ![](https://github.com/aditya-sultan/Tugas7_Praktikum6/blob/master/Capture5.PNG)
